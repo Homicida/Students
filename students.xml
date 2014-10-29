@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TABLE>
+	<STUDENT>
+		<NAME> Fred </NAME>
+		<GRADES>
+			<ENGLISH>21</ENGLISH>
+			<MATH>55</MATH>
+			<HISTORY>70</HISTORY>
+			<ART>84</ART>
+		</GRADES>
+	</STUDENT>
+	<STUDENT>
+		<NAME> Wilma </NAME>
+		<GRADES>
+			<MATH>85</MATH>
+			<ENGLISH>95</ENGLISH>
+			<HISTORY>72</HISTORY>
+			<ART>77</ART>
+		</GRADES>
+	</STUDENT>
+	<STUDENT>
+		<NAME> Juku </NAME>
+		<GRADES>
+			<MATH>10</MATH>
+			<ENGLISH>20</ENGLISH>
+			<HISTORY>30</HISTORY>
+			<ART>50</ART>
+		</GRADES>
+	</STUDENT>
+	<STUDENT>
+		<NAME> Arnold </NAME>
+		<GRADES>
+			<MATH>10</MATH>
+			<ENGLISH>20</ENGLISH>
+			<HISTORY>30</HISTORY>
+			<ART>50</ART>
+		</GRADES>
+	</STUDENT>
+</TABLE>
